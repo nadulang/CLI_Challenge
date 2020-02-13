@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI_Challenge2", "CLI_Challenge2\CLI_Challenge2.csproj", "{E6A2EA5D-2234-48DF-86BF-34D46D1DF03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A2EA5D-2234-48DF-86BF-34D46D1DF03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A2EA5D-2234-48DF-86BF-34D46D1DF03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A2EA5D-2234-48DF-86BF-34D46D1DF03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A2EA5D-2234-48DF-86BF-34D46D1DF03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
